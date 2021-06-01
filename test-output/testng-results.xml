@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-27T11:45:32 ICT" name="Default suite" finished-at="2021-05-27T11:46:05 ICT" duration-ms="33769">
+    <groups>
+    </groups>
+    <test started-at="2021-05-27T11:45:32 ICT" name="Default test" finished-at="2021-05-27T11:46:05 ICT" duration-ms="33769">
+      <class name="ios.TestAppAndroid">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:ios.TestAppAndroid@4ac3c60d]" started-at="2021-05-27T11:45:32 ICT" name="beforeTest" finished-at="2021-05-27T11:45:57 ICT" duration-ms="25200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="addTest()[pri:0, instance:ios.TestAppAndroid@4ac3c60d]" started-at="2021-05-27T11:45:57 ICT" name="addTest" finished-at="2021-05-27T11:46:01 ICT" duration-ms="4304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method signature="mulTest()[pri:0, instance:ios.TestAppAndroid@4ac3c60d]" started-at="2021-05-27T11:46:01 ICT" name="mulTest" finished-at="2021-05-27T11:46:05 ICT" duration-ms="4212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+        <test-method signature="x()[pri:0, instance:ios.TestAppAndroid@4ac3c60d]" started-at="2021-05-27T11:46:05 ICT" name="x" finished-at="2021-05-27T11:46:05 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+      </class> <!-- ios.TestAppAndroid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

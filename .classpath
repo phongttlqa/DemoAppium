@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/ant-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/ant-launcher-1.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/aopalliance-repackaged-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/asm-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/aspectjweaver-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/cglib-3.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/dec-0.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-appium-java4-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-common-java4-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-connectivity-java4-jersey2x-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-images-java4-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-sdk-core-java4-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-sdk-distribution-java4-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/eyes-selenium-java4-4.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/hk2-api-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/hk2-locator-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/hk2-utils-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jackson-annotations-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jackson-core-2.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jackson-databind-2.9.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/javax.inject-2.4.0-b09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jersey-apache-connector-2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jersey-client-2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jersey-common-2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jersey-guava-2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/opencv-3.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/ph-commons-9.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/ph-css-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-java-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LQA/Desktop/appium/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
